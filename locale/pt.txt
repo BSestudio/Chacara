@@ -23,6 +23,7 @@ Button_1EBF3282_0C0A_1D6D_4190_52FC7F8C00A5_mobile.label = PHOTOS
 Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD_mobile.label = PANORAMAS
 Button_1FE4B611_0C0A_256F_418E_EA27E66F8360_mobile.label = FLOORPLAN
 Button_33E0F47E_11C1_A20D_419F_BB809AD89259_mobile.label = CONTACT
+Button_B599FFFA_BA10_EB3E_41E1_18AC691C2F0B.label = FAÇA SUA RESERVA
 
 ### Multiline Text
 HTMLText_04FFCC2C_1216_7593_41A3_D345BDE131A2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.18032786885246vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.18vh;font-family:'Otama.ep';"><B>Chacara</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:9.18032786885246vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.18vh;font-family:'Otama.ep';"><B>Bhouse 561</B></SPAN></SPAN></DIV></div>
@@ -59,9 +60,13 @@ album_A74CE2B5_B9A5_9DF2_41D4_241FC8B4B025_6.label = Chac_2023-1884-Edit
 album_A74CE2B5_B9A5_9DF2_41D4_241FC8B4B025_7.label = Chac_2023-1885-Edit
 album_A74CE2B5_B9A5_9DF2_41D4_241FC8B4B025_8.label = Chac_2023-1886-Edit
 album_A74CE2B5_B9A5_9DF2_41D4_241FC8B4B025_9.label = Chac_2023-1887-Edit
-panorama_985A991A_BA64_8CB7_41B8_B1E8527A9519.label = CHACARA  (30 of 31)-Edit
-panorama_985F8677_B775_0CDC_41E3_C9EB35035A90.label = CHACARA  (25 of 31)-Edit
 panorama_988229BF_BA64_8FEE_41A0_83EA506A157A.label = CHACARA  (20 of 31)-Edit
+panorama_B76674D1_BA13_DD4A_41BE_55B8B69CE77F.label = CHACARA  (24 of 31)-Edit
+panorama_B78063BA_BA13_5B3E_41BA_94D951D3C156.label = CHACARA  (25 of 31)-Edit
+panorama_B780707D_BA10_B53A_41C9_A67E745482D7.label = CHACARA  (28 of 31)-Edit
+panorama_B7B691AC_BA11_57D9_41CA_85A92A4D7340.label = CHACARA  (30 of 31)-Edit
+panorama_B7F582CF_BA10_B556_41C1_D45069F25A3C.label = CHACARA  (27 of 31)-Edit
+panorama_B7FCA545_BA11_FF4A_41BE_701E49B4EF68.label = CHACARA  (29 of 31)-Edit
 panorama_BC49FE7F_B6ED_1CCC_41DA_1D5FE7ECF288.label = CHACARA  (1 of 31)
 panorama_BC8C9A39_B6ED_0454_41D1_C4528C0425F6.label = CHACARA  (2 of 31)-Edit
 panorama_BC8E01EF_B6ED_07CC_41D9_206360061C9C.label = CHACARA  (22 of 31)-Edit
@@ -80,11 +85,7 @@ panorama_BC8EC527_B6ED_0C7C_41A1_95143DC41BA8.label = CHACARA  (12 of 31)-Edit
 panorama_BC8ED15D_B6ED_04CC_41C1_0D6F22C92737.label = CHACARA  (10 of 31)-Edit
 panorama_BC8EDA12_B6ED_0454_41DC_E764C1464E79.label = CHACARA  (14 of 31)-Edit
 panorama_BC8EFB61_B6ED_04F4_41B8_C93AC07978C5.label = CHACARA  (11 of 31)-Edit
-panorama_BC9233CA_B6F3_0434_41DF_F10042E7240C.label = CHACARA  (27 of 31)-Edit
-panorama_BC92360F_B6F3_0C4C_41D3_86DB918EDA26.label = CHACARA  (24 of 31)-Edit
 panorama_BC924A0F_B6F3_044C_41E6_00CD320B804E.label = CHACARA  (26 of 31)-Edit
-panorama_BC925D5F_B6F3_1CCC_41CB_C3B2F8D8A117.label = CHACARA  (28 of 31)-Edit
-panorama_BC92675A_B6F3_0CD4_41D6_EE0C7362F797.label = CHACARA  (29 of 31)-Edit
 panorama_BC92DA94_B6F3_045C_41D5_67C553F2A9F8.label = CHACARA  (31 of 31)-Edit
 
 ## Action
@@ -92,5 +93,6 @@ panorama_BC92DA94_B6F3_045C_41D5_67C553F2A9F8.label = CHACARA  (31 of 31)-Edit
 ### URL
 LinkBehaviour_AA784FFD_B9BC_836D_41B1_2C2C9BA1559E.source = http://www.loremipsum.com
 LinkBehaviour_AA785FFD_B9BC_836D_41E1_81B54892AACD.source = http://www.loremipsum.com
-LinkBehaviour_AA786FFD_B9BC_836D_41E6_9FF7FE9D297A.source = https://www.google.com/maps/place/Res.+Pomares,+Ara%C3%A7oiaba+da+Serra+-+SP/@-23.5266451,-47.56711,15.52z/data=!4m6!3m5!1s0x94c58cd0f00f1add:0xcdeaefcd43c052f4!8m2!3d-23.5252557!4d-47.5594675!16s%2Fg%2F1ymwnrx0v?entry=ttu
+LinkBehaviour_AA786FFD_B9BC_836D_41E6_9FF7FE9D297A.source = https://www.google.com/maps/dir//Res.+Pomares,+Ara%C3%A7oiaba+da+Serra+-+SP/@-23.5266451,-47.56711,15z/data=!4m9!4m8!1m0!1m5!1m1!1s0x94c58cd0f00f1add:0xcdeaefcd43c052f4!2m2!1d-47.5594675!2d-23.5252557!3e0?entry=ttu
 LinkBehaviour_AA787FFD_B9BC_836D_41D2_BDD427ECE27F.source = http://www.loremipsum.com
+LinkBehaviour_AAD4F895_BA11_55CB_41CD_824BB91FA9C2.source = https://airbnb.com/h/bhousecampo
