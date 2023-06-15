@@ -1,4 +1,8 @@
 {
+ "name": "Chacara Bhouse",
+ "start_url": "index.htm",
+ "description": "Chácara",
+ "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -36,10 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Chacara Bhouse",
- "description": "Chácara",
- "display": "fullscreen",
- "start_url": "index.htm",
  "theme_color": "#FFFFFF",
  "background_color": "#FFFFFF"
 }
