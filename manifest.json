@@ -40,6 +40,6 @@
  "start_url": "index.htm",
  "description": "Chácara",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF"
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF"
 }
