@@ -36,10 +36,10 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
  "name": "Chacara Bhouse",
  "description": "Chácara",
  "display": "fullscreen",
+ "background_color": "#FFFFFF",
  "theme_color": "#FFFFFF",
  "start_url": "index.htm"
 }
