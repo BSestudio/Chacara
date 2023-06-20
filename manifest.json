@@ -1,9 +1,8 @@
 {
- "name": "Chacara Bhouse",
- "background_color": "#FFFFFF",
- "description": "Chácara",
- "display": "fullscreen",
  "theme_color": "#FFFFFF",
+ "start_url": "index.htm",
+ "name": "Chácara Bhouse 561 - Araçoiaba da Serra",
+ "description": "Chácara Bhouse 561",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm"
+ "background_color": "#FFFFFF",
+ "display": "fullscreen"
 }

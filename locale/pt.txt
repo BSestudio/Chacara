@@ -3,10 +3,10 @@
 ## Tour
 
 ### Description
-tour.description = Chácara
+tour.description = Chácara Bhouse 561
 
 ### Title
-tour.name = Chacara Bhouse
+tour.name = Chácara Bhouse 561 - Araçoiaba da Serra
 
 ## Skin
 
